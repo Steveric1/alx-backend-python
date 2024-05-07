@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """Measure the runtime of async_comprehension four times in parallel using"""
 
