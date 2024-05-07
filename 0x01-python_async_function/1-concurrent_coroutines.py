@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+"""Asynchronous coroutine that takes in two integer arguments"""
 import asyncio
 from typing import List
 wait_random = __import__('0-basic_async_syntax').wait_random
