@@ -7,7 +7,7 @@ import asyncio
 import random
 
 
-async def async_generator() -> any:
+async def async_generator():
     """Yield a random number every 1 second."""
     for _ in range(10):
         await asyncio.sleep(1)
